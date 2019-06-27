@@ -15,6 +15,7 @@
 		18815CA022C3F3ED0030B36C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18815C9E22C3F3ED0030B36C /* LaunchScreen.storyboard */; };
 		18815CAB22C3F3ED0030B36C /* gotMovies_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18815CAA22C3F3ED0030B36C /* gotMovies_Tests.swift */; };
 		18815CB622C3F3ED0030B36C /* gotMovies_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18815CB522C3F3ED0030B36C /* gotMovies_UITests.swift */; };
+		18815CC422C550590030B36C /* popcorn-movie-time-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 18815CC322C550590030B36C /* popcorn-movie-time-512.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18815CB122C3F3ED0030B36C /* gotMovies?UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "gotMovies?UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18815CB522C3F3ED0030B36C /* gotMovies_UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gotMovies_UITests.swift; sourceTree = "<group>"; };
 		18815CB722C3F3ED0030B36C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18815CC322C550590030B36C /* popcorn-movie-time-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "popcorn-movie-time-512.png"; path = "../popcorn-movie-time-512.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				18815CA922C3F3ED0030B36C /* gotMovies?Tests */,
 				18815CB422C3F3ED0030B36C /* gotMovies?UITests */,
 				18815C9022C3F3EC0030B36C /* Products */,
+				18815CC322C550590030B36C /* popcorn-movie-time-512.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18815CC422C550590030B36C /* popcorn-movie-time-512.png in Resources */,
 				18815CA022C3F3ED0030B36C /* LaunchScreen.storyboard in Resources */,
 				18815C9D22C3F3ED0030B36C /* Assets.xcassets in Resources */,
 				18815C9822C3F3EC0030B36C /* Main.storyboard in Resources */,
